@@ -1,3 +1,5 @@
+Web-based issue tracker for project management.Users can create, assign, and update issues, set priorities,and attach files. Implement user roles and permissions.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
